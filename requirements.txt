@@ -1,0 +1,6 @@
+llama-index
+llama-index-readers-file
+llama-index-llms-huggingface-api
+llama-index-embeddings-huggingface
+pypdf
+gradio
